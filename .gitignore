@@ -9,8 +9,8 @@
 .history
 .svn/
 migrate_working_dir/
-lib\objectbox.g.dart
-assets\token.text
+lib/objectbox.g.dart
+assets/token.text
 
 # IntelliJ related
 *.iml
