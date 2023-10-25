@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 
-import 'base_service.dart';
+import 'base_connecton.dart';
 
 class DetailMovieModelProvider extends BaseService {
   Future<Response> getDetailMovieModel(int id) async {

@@ -1,6 +1,6 @@
 import 'package:get/get.dart';
 
-import 'base_service.dart';
+import 'base_connecton.dart';
 
 class ItemMovieModelProvider extends BaseService {
 
