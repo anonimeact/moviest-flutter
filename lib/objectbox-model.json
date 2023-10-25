@@ -1,0 +1,137 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:7255924499847748158",
+      "lastPropertyId": "22:8617343808099714004",
+      "name": "DetailMovieModel",
+      "properties": [
+        {
+          "id": "1:9047896846965077692",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:443438218625381584",
+          "name": "adult",
+          "type": 1
+        },
+        {
+          "id": "3:4631715502563377931",
+          "name": "backdropPath",
+          "type": 9
+        },
+        {
+          "id": "4:8106168612306847655",
+          "name": "budget",
+          "type": 6
+        },
+        {
+          "id": "5:8266882986227001132",
+          "name": "genres",
+          "type": 9
+        },
+        {
+          "id": "6:1378150545856869636",
+          "name": "homepage",
+          "type": 9
+        },
+        {
+          "id": "7:4244616031148610035",
+          "name": "idMovie",
+          "type": 6
+        },
+        {
+          "id": "8:2726955321415482558",
+          "name": "imdbId",
+          "type": 9
+        },
+        {
+          "id": "9:2270118622635627170",
+          "name": "originalLanguage",
+          "type": 9
+        },
+        {
+          "id": "10:3228820602888034364",
+          "name": "originalTitle",
+          "type": 9
+        },
+        {
+          "id": "11:8728502096538883297",
+          "name": "overview",
+          "type": 9
+        },
+        {
+          "id": "12:8447902023722648921",
+          "name": "popularity",
+          "type": 8
+        },
+        {
+          "id": "13:155600114248998161",
+          "name": "posterPath",
+          "type": 9
+        },
+        {
+          "id": "14:1170455250367541359",
+          "name": "releaseDate",
+          "type": 9
+        },
+        {
+          "id": "15:8609373158876355349",
+          "name": "revenue",
+          "type": 6
+        },
+        {
+          "id": "16:1689942938155212916",
+          "name": "runtime",
+          "type": 6
+        },
+        {
+          "id": "17:3921768146730030030",
+          "name": "status",
+          "type": 9
+        },
+        {
+          "id": "18:3758288015702807358",
+          "name": "tagline",
+          "type": 9
+        },
+        {
+          "id": "19:6164829283774290953",
+          "name": "title",
+          "type": 9
+        },
+        {
+          "id": "20:7828721645163208106",
+          "name": "video",
+          "type": 1
+        },
+        {
+          "id": "21:6849721352527594633",
+          "name": "voteAverage",
+          "type": 8
+        },
+        {
+          "id": "22:8617343808099714004",
+          "name": "voteCount",
+          "type": 6
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:7255924499847748158",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [],
+  "retiredRelationUids": [],
+  "version": 1
+}
